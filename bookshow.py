@@ -31,3 +31,4 @@ print(df)
 git
 df.to_csv("D:\ALIZAID ITR/data.csv")
 hjjj
+bahva ana ajak
