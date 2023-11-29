@@ -28,5 +28,6 @@ for review in reviews:
 
 df = pd.DataFrame({"Product_name":names,"Reviews":reviews})
 print(df)
-
+git
 df.to_csv("D:\ALIZAID ITR/data.csv")
+hjjj
